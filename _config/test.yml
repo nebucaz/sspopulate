@@ -1,0 +1,6 @@
+Member:
+  test:
+    Email: "test@test.com"
+    Password: "password"
+    PopulateMergeMatch:
+      - Email
